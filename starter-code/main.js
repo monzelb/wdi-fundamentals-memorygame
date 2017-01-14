@@ -5,5 +5,8 @@ var cardThree = "King"
 var cardFour = "King"
 
 if(cardTwo === cardFour){
-	
+	alert("You found a match!")
+}
+else{
+	alert("sorry, try again!")
 }
